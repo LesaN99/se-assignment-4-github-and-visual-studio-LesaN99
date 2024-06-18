@@ -53,11 +53,17 @@ Answer:
 Creating a new repository:
 
 1.Go to https://github.com/.
+
 2.Sign in to your GitHub account.
+
 3.In the top right corner, click the plus sign (+) and select "New repository".
+
 4.Enter a name for your repository. This will be the name of the folder that your repository is stored in on GitHub.
+
 5.Optionally, add a description for your repository. This will help other people understand what your repository is for.
+
 6.Select whether your repository should be public or private. Public repositories can be seen by anyone on the internet. Private repositories can only be seen by people who you have invited to collaborate on the repository.
+
 7.Click "Create repository".
 
 When setting up a new GitHub repository, consider including these essential elements:
@@ -145,9 +151,13 @@ Answers:
 
 Steps to inegrate a GitHub repository with VS:
 1.Connect to GitHub: In Visual Studio, navigate to the Team Explorer window. Click on "Manage Connections" and choose "GitHub" from the options. Authenticate using your GitHub credentials to establish a connection.
+
 2.Clone the Repository: After connecting to GitHub, click on "Clone" in the Team Explorer. Select the GitHub repository you want to work with and choose a local directory where the repository will be cloned. This step downloads the repository to your local machine.
+
 3.Work with the Repository: Once cloned, you can start working with the repository directly within Visual Studio. Make changes to files, add new features, or fix bugs as needed.
+
 4.Commit Changes: Use Visual Studio's Git integration to stage your changes, write commit messages, and commit them to the local repository. This ensures that all modifications are tracked and can be reviewed later.
+
 5.Push and Pull Changes: Push your committed changes to GitHub to update the remote repository with the latest modifications. Similarly, pull changes from GitHub to sync your local repository with updates made by other team members.
 
 - This integration streamlines collaboration by providing a unified environment for coding, version control, and project management, enhancing efficiency and ensuring seamless synchronization between local development and remote repositories hosted on GitHub.
